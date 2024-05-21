@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 02060c05550c5f5f550c597b14270644424e4079797977637a704d64e1b26d3a
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 570851535500500a5e5d0f7442260e4412164f7e747d20317d2f1c60e4b4663e
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 52070654000d5d095a5b0f214277074446164e797e7d7e667d2b4c6ab2b5626e
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 0109505e52060a0c0f575b7649755944144e1a7b7a787060782b1937b2e2326b
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5150070553530a0d0f59597b45750644104e4c297d2b746478794930b3e2613d
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5609075553500c0d0c0a5c7748705a4447161a7a2e7d2332287b1c64bae36639
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 530456035c0d0c08555a0e7a42775944434e48287a792269787d1e6bb4b16261
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 550552500601085e08575871412509444716497d797d25672b7c486ae7b3676b
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 05570c5e00510c09555c5f2715255d44404e1a732f2b7532797f1e35bae26368
+      flags: 0
+    UnityRemoteCompression:
+      value: 337f73
+      flags: 0
+    UnityRemoteDevice:
+      value: 225f4d46245b0d4902070862342649191512
+      flags: 0
+    UnityRemoteResolution:
+      value: 275e4308165c135e
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 2
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
